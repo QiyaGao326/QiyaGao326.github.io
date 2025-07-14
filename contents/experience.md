@@ -1,21 +1,24 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **INTERNSHIP EXPERIENCE**  
+**Andon Health Co., Ltd. (Tianjin, China) | IVD Product Division | Apr 2025 – Jun 2025**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### Key Works:  
+- Participated in safety evaluation of active continuous glucose monitoring (CGM) sensors under magnetic resonance imaging (MRI) conditions  
+- Assisted in designing and testing protocols related to magnetically induced displacement force, RF-induced heating, and other MRI safety risks
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **RESEARCH EXPERIENCE**  
+**National Key Research and Development Program of China | Feburary 2023 – Present**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+Integration and Application of an Ultra-sensitive Bio-Gas-Liquid-Electrical Sensing Prototype System
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### Key Works:  
+- Led signal acquisition and integration of multi-environment biomarker detection system  
+
+**Beiyang Innovation Project (Undergraduate Research Program) | January 2022 – December 2022**  
+
+Attentional Patterns to Emotional Faces in Individuals with High Trait Loneliness
+
+#### Key Works:  
+- Investigated attentional patterns toward emotional faces in individuals with high trait loneliness through eye-tracking experiments and data analysis using the Tobii Pro Spectrum system. 
+
