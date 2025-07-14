@@ -4,7 +4,7 @@ I am currently pursuing a Master’s degree in Intelligent Medical Engineering a
 
 #### Email  
 <code>qiyagao326@gmail.com</code>  
-<code>qiya_gao@tju.edu.cn_</code>
+<code>qiya_gao@tju.edu.cn</code>
 
 #### Education  
 **Tianjin University**, Master of Intelligent Medical Engineering (Sep 2023 – Jun 2026)  
