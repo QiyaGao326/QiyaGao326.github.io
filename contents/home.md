@@ -10,13 +10,13 @@ I received my Bachelor’s degree in Intelligent Medical Engineering from Tianji
 <code>qiya_gao@tju.edu.cn</code>
 
 #### Education  
-**Tianjin University** (project 985), Master of Intelligent Medical Engineering (Sep 2023 – Jun 2026)  
+**Tianjin University**, China (project 985), Master of Intelligent Medical Engineering (Sep 2023 – Jun 2026)  
 • GPA: 3.65/4 (88.57/100)
 
-**Tianjin University** (project 985), Bachelor of Intelligent Medical Engineering (Sep 2019 – Jun 2023)  
+**Tianjin University**, China (project 985), Bachelor of Intelligent Medical Engineering (Sep 2019 – Jun 2023)  
 • GPA: 3.43/4 (85.75/100)  
 
-**Tianjin Medical University** (project 211), Minor Program in Basic Medical Sciences (Sep 2019 – Jun 2024)  
+**Tianjin Medical University**, China (project 211), Minor Program in Basic Medical Sciences (Sep 2019 – Jun 2024)  
 
 #### Research Interests  
 Flexible electronics, wearable devices, point-of-care testing (POCT), intelligent medical sensing, and smart healthcare.
