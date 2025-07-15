@@ -30,7 +30,7 @@ Bachelor of Intelligent Medical Engineering | Sep 2019 – Jun 2023
 **Tianjin Medical University**, China (Double First-Class Initiative, formerly Project 211)
 
 Minor Program in Basic Medical Sciences | Sep 2019 – Jun 2024
-- Core Courses: Internal Medicine (98), General Surgery (100), Preventive Medicine (94.7)
+- Key Courses: Internal Medicine (98), General Surgery (100), Preventive Medicine (94.7)
 
 ### **Research Interests**  
 Flexible electronics, wearable devices, point-of-care testing (POCT), intelligent medical sensing, and smart healthcare.
