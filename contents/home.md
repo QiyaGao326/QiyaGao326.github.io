@@ -14,20 +14,23 @@ I received my Bachelor’s degree in Intelligent Medical Engineering from Tianji
 **Tianjin University, China** (Double First-Class Initiative, formerly Project 985)
 
 Master of Intelligent Medical Engineering | Sep 2023 – Jun 2026
-• GPA: 3.65/4 (88.57/100)
+- GPA: 3.65/4 (88.57/100)
+- Key Courses: Biomedical Sensing and Detection (99), Neural Engineering (94), Medical Imaging and Nuclear Medicine (90), Introduction to Machine Learning and Deep Learning (90)
 
 ---
 
 **Tianjin University, China** (Double First-Class Initiative, formerly Project 985)
 
 Bachelor of Intelligent Medical Engineering | Sep 2019 – Jun 2023
-• GPA: 3.43/4 (85.75/100)  
+- GPA: 3.43/4 (85.75/100)  
+- Key Courses: Fundamentals of Intelligent Medical Diagnostics (100), Principles of Automatic Control (96), Microcontroller Development and Applications (88), Intelligent Medical Sensing Technologies (87)
 
 ---
 
 **Tianjin Medical University**, China (Double First-Class Initiative, formerly Project 211)
 
 Minor Program in Basic Medical Sciences | Sep 2019 – Jun 2024
+- Core Courses: Internal Medicine (98), General Surgery (100), Preventive Medicine (94.7)
 
 ### **Research Interests**  
 Flexible electronics, wearable devices, point-of-care testing (POCT), intelligent medical sensing, and smart healthcare.
