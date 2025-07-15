@@ -6,7 +6,7 @@
 - Built a resU-Net + KNN cascade model and a complete hardware–software platform with wireless transmission and mobile visualization
 
 
-**2. The First ‘Skills Cup’ Medical Device Technology Innovation and Application Skills Competition**
+**2. The First Medical Device Technology Innovation and Application Skills Competition**
 
 (The second participant, Third Prize (National Level) | Oct 2024)
 #### Key Works:  
