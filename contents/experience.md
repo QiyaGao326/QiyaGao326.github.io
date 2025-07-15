@@ -22,3 +22,11 @@ Attentional Patterns to Emotional Faces in Individuals with High Trait Lonelines
 #### Key Works:  
 - Investigated attentional patterns toward emotional faces in individuals with high trait loneliness through eye-tracking experiments and data analysis using the Tobii Pro Spectrum system. 
 
+---
+
+### **Teaching Assistant**  
+**Medical Intelligent Sensing Technology  | Spring 2024** 
+
+#### Key Works:  
+- Assisted in course delivery for undergraduate students, including grading assignments and exam papers.
+- Designed and implemented an Arduino-based laboratory experiment for ion concentration and pulse oximetry measurement, integrating principles of biosensing, microcontroller programming, and physiological signal acquisition.
