@@ -1,5 +1,5 @@
 ### **INTERNSHIP EXPERIENCE**  
-**Andon Health Co., Ltd. (Tianjin, China) | IVD Product Division | Aprial 2025 – June 2025**  
+**Andon Health Co., Ltd. (Tianjin, China) | IVD Product Division | April 2025 – June 2025**  
 
 #### Key Works:  
 - Participated in safety evaluation of active continuous glucose monitoring (CGM) sensors under magnetic resonance imaging (MRI) conditions  
