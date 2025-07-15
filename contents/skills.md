@@ -2,4 +2,4 @@
 
 **Programming and Software:** Python, MATLAB, SolidWorks, Altium Designer, Origin, AutoCAD
 
-**Language:** IELTS 7.0 (≥6.0 in all sections); CET-6: 512/710; proficient in academic reading and scientific writing
+**Language:** IELTS 7.0 (≥6.0 in all sections); CET-6: 512/710; Proficient in academic reading and scientific writing in English
