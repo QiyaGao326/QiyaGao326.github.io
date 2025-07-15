@@ -5,9 +5,9 @@ I am currently pursuing a Master’s degree in Intelligent Medical Engineering a
 
 I received my Bachelor’s degree in Intelligent Medical Engineering from Tianjin University, with a minor in Basic Medical Sciences from Tianjin Medical University. I was recommended for admission to the Master’s program without examination.
 
-#### Email  
-<code>qiyagao326@gmail.com</code>  
-<code>qiya_gao@tju.edu.cn</code>
+#### ✉️ Email 
+[qiyagao326@gmail.com](mailto:qiyagao326@gmail.com)  
+[qiya_gao@tju.edu.cn](mailto:qiya_gao@tju.edu.cn)
 
 #### Education  
 **Tianjin University**, China (project 985), Master of Intelligent Medical Engineering (Sep 2023 – Jun 2026)  
