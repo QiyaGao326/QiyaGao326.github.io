@@ -1,5 +1,3 @@
-[![GitHub](https://img.shields.io/badge/GitHub-QiyaGao326-blue?logo=github)](https://github.com/QiyaGao326)
-
 
 I am currently pursuing a Master’s degree in Intelligent Medical Engineering at the School of Medicine, Tianjin University, with expected graduation in June 2026. My graduate research focuses on wearable biomedical sensing devices, mobile intelligent diagnostics, intelligent point-of-care testing (iPOCT) systems, electrochemical immunosensor development, and organic field-effect transistors (OFETs). 
 
