@@ -15,10 +15,14 @@ I received my Bachelor’s degree in Intelligent Medical Engineering from Tianji
 Master of Intelligent Medical Engineering | Sep 2023 – Jun 2026
 • GPA: 3.65/4 (88.57/100)
 
+---
+
 **Tianjin University, China** (Double First-Class Initiative, formerly Project 985)
 
 Bachelor of Intelligent Medical Engineering | Sep 2019 – Jun 2023
 • GPA: 3.43/4 (85.75/100)  
+
+---
 
 **Tianjin Medical University**, China (Double First-Class Initiative, formerly Project 211)
 
