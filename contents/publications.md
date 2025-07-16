@@ -12,4 +12,8 @@
 
 - Y.C. Bai, J. Fu, Z.Y. Qin, **Q.Y. Gao**, S. Li. Integrated biosensing system of electrochemistry and electrophysiology for cortisol and skin conductance analysis on smartphone, *Sensors and Actuators B-Chemical*, 394(2023). (Research, JCR Q1, IF:7.7) [https://doi.org/10.1016/j.snb.2023.134368](https://doi.org/10.1016/j.snb.2023.134368)
 
+- Z.Y. Qin, S.Z. Deng, J.W. Wang, J. Fu, F.Y. Xiong, **Q.Y. Gao**, et al., Fluorescent aptasensor based on competitive recognition strategies and point-of-care testing system for brain natriuretic peptide detection, *Microchemical Journal*, 207(2024). (Research, JCR Q1, IF:5.1) [https://doi.org/10.1016/j.microc.2024.111742](https://doi.org/10.1016/j.microc.2024.111742)
+
+- Z.Y. Qin, J. Fu, J.W. Wang, S.Z. Deng, F.Y. Xiong, **Q.Y. Gao**, et al., An intelligent fluorescence sensing platform based on entropy-driven toehold-mediated strand displacement cycle reaction for point-of-care of miRNA, *Spectrochimica Acta Part a-Molecular and Biomolecular Spectroscopy*, 325(2025). (Research, JCR Q1, IF:4.6) [https://doi.org/10.1016/j.saa.2024.125177](https://doi.org/10.1016/j.saa.2024.125177)
+
 
