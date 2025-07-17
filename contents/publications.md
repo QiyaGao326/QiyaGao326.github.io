@@ -1,4 +1,4 @@
-- **Q.Y. Gao**, S. Li, et al. Dual-signal electrochemical immunoassay based on PAMAM@MXene-modified electrode for simultaneous detection of S100B and NSE. (Research, Manuscript completed)
+- **Q.Y. Gao**, S. Li, et al. Dual-signal electrochemical immunoassay based on PAMAM@MXene-modified electrode for simultaneous detection of S100B and NSE. **(Research, Manuscript completed)**
 
 - **Q.Y. Gao**, S. Li, et al. A Multi-Channel Urine Sensing Detection System Based on Creatinine, Uric Acid, and pH, *Biosensors-Basel*, 14(2024). **(Research, JCR Q1, IF:5.6)** [https://doi.org/10.3390/bios14100473](https://doi.org/10.3390/bios14100473)
 
