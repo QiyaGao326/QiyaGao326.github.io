@@ -10,14 +10,14 @@
 ### **RESEARCH EXPERIENCE**  
 **1. Integration and Application of an Ultra-sensitive Bio-Gas-Liquid-Electrical Sensing Prototype System**  
 
-**National Key Research and Development Program of China | Feb 2023 – Present**
+*National Key Research and Development Program of China | Feb 2023 – Present*
 
 #### Key Works:  
 - Led signal acquisition and integration of multi-environment biomarker detection system  
 
 **2. MXene@PAMAM-Based Electrochemical Immunosensor for Dual Biomarker Detection**  
 
-**Master’s Research Project, Tianjin University |	Sep 2023 – Present**
+*Master’s Research Project, Tianjin University |	Sep 2023 – Present*
 
 #### Key Works:  
 - Designed a dual-signal immunosensor integrating SWV and I–T outputs for simultaneous detection of S100B and NSE, using CS@MNPs–MB and PdPtCu nanoalloys as orthogonal signal probes
@@ -26,7 +26,7 @@
 
 **3. Flexible Reverse Iontophoresis Sensor for pH, NH₄⁺, and Lactic Acid Detection**  
 
-**Under the supervision of Prof. Shuang Li, Tianjin University |	Jun 2023 – Sep 2023**
+*Under the supervision of Prof. Shuang Li, Tianjin University |	Jun 2023 – Sep 2023*
 
 #### Key Works:  
 - Designed and fabricated a multi-channel electrochemical sensor incorporating reverse iontophoresis for simultaneous, non-invasive detection of pH, ammonium, and lactate
@@ -35,7 +35,7 @@
 
 **4. Multi-Channel Electrochemical Sensor for Urine Biomarkers**  
 
-**Undergraduate Thesis, Tianjin University | Mar 2023 – Jun 2023**
+*Undergraduate Thesis, Tianjin University | Mar 2023 – Jun 2023*
 
 #### Key Works:  
 - Designed a nanomaterial-modified, dual-sided electrode for simultaneous detection of creatinine, uric acid, and urea in human urine
@@ -43,7 +43,7 @@
 
 **5. Attentional Patterns to Emotional Faces in Individuals with High Trait Loneliness**  
 
-**Beiyang Innovation Project (Undergraduate Research Program) | Jan 2022 – Dec 2022**
+*Beiyang Innovation Project (Undergraduate Research Program) | Jan 2022 – Dec 2022*
 
 #### Key Works:  
 - Investigated attentional patterns toward emotional faces in individuals with high trait loneliness through eye-tracking experiments and data analysis using the Tobii Pro Spectrum system. 
