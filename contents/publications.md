@@ -1,4 +1,6 @@
-- **Q.Y. Gao**, S. Li, et al. Dual-signal electrochemical immunoassay based on PAMAM@MXene-modified electrode for simultaneous detection of S100B and NSE, *Biosensors and Bioelectronics*. **(JCR Q1, IF:10.5, Under Review after Major Revision)**
+- **Q.Y. Gao**, S. Li, et al. Dual-signal electrochemical immunoassay based on PAMAM@MXene-modified electrode for simultaneous detection of S100B and NSE, *Biosensors and Bioelectronics*. **(JCR Q1, IF:10.5, Required Reviews Completed after Major Revision)**
+
+- **Q.Y. Gao**, S. Li, Bin Yao, et al. Multimodal Assessment Platform Integrating Visual, Physiological, and Biochemical Profiling for Decoding Psoriasis Phenotyping, *MedComm*. **(JCR Q1, IF:10.7, With Editor)**
 
 - **Q.Y. Gao**, S. Li, et al. A Multi-Channel Urine Sensing Detection System Based on Creatinine, Uric Acid, and pH, *Biosensors-Basel*, 14(2024). **(JCR Q1, IF:5.6)** [https://doi.org/10.3390/bios14100473](https://doi.org/10.3390/bios14100473)
 
