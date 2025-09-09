@@ -20,7 +20,7 @@
 
 - Z.Y. Qin, J. Fu, J.W. Wang, S.Z. Deng, F.Y. Xiong, **Q.Y. Gao**, et al., An intelligent fluorescence sensing platform based on entropy-driven toehold-mediated strand displacement cycle reaction for point-of-care testing of miRNA, *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy*, 325(2025). **(JCR Q1, IF:4.6)** [https://doi.org/10.1016/j.saa.2024.125177](https://doi.org/10.1016/j.saa.2024.125177)
 
-- Z.Y. Qin, S.Z. Deng, J.W. Wang, J. Fu, F.F. Xiong, **Q.Y. Gao**, et al., Fluorescent aptasensor based on competitive recognition strategies and point-of-care testing system for brain natriuretic peptide detection, *Microchemical Journal*, 207(2024). **(Research, JCR Q1, IF:5.1)** [https://doi.org/10.1016/j.microc.2024.111742](https://doi.org/10.1016/j.microc.2024.111742)
+- Z.Y. Qin, S.Z. Deng, J.W. Wang, J. Fu, F.F. Xiong, **Q.Y. Gao**, et al., Fluorescent aptasensor based on competitive recognition strategies and point-of-care testing system for brain natriuretic peptide detection, *Microchemical Journal*, 207(2024). **(JCR Q1, IF:5.1)** [https://doi.org/10.1016/j.microc.2024.111742](https://doi.org/10.1016/j.microc.2024.111742)
 
 
 
