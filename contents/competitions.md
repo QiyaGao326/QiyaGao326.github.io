@@ -1,5 +1,7 @@
 **1. The 9th National Biomedical Engineering Innovation Design Competition**
 
+**Title of the work**: Multimodal Cascade Model and Integrated System for Psoriasis Assessment Based on Skin Conductance
+
 (The second participant, Third Prize (National Level) | Jul 2024)
 #### Key Works:  
 - Developed a multimodal psoriasis assessment system integrating skin conductance sensing, serum histamine electrochemical detection, and image-based analysis
@@ -7,6 +9,8 @@
 
 
 **2. The First Medical Device Technology Innovation and Application Skills Competition**
+
+**Title of the work**: A wearable heart rate variability analysis system based on conductive ionic hydrogel
 
 (The second participant, Third Prize (National Level) | Oct 2024)
 #### Key Works:  
