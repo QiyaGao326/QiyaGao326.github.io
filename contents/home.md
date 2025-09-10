@@ -26,7 +26,7 @@ Bachelor of Biomedical Engineering | Sep 2019 – Jun 2023
 
 **Tianjin Medical University, China (Double First-Class Initiative, formerly Project 211)**
 
-Minor Program in Basic Medical Sciences | Sep 2019 – Jun 2024
+Minor Program in Basic Medicine | Sep 2019 – Jun 2024
 - Key Courses: Internal Medicine (98), General Surgery (100), Preventive Medicine (94.7)
 
 ### **Research Interests**  
