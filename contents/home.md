@@ -11,7 +11,7 @@ I received my Bachelor’s degree in Biomedical Engineering from Tianjin Univers
 **Tianjin University, China (Double First-Class Initiative, formerly Project 985)**
 
 Master of Biomedical Engineering | Sep 2023 – Jun 2026
-- GPA: 3.65/4 (88.57/100)
+- GPA: 3.67/4.0 (88.77/100)
 - Key Courses: Biomedical Sensing and Detection (99), Neural Engineering (94), Medical Imaging and Nuclear Medicine (90), Introduction to Machine Learning and Deep Learning (90)
 
 ---
@@ -19,7 +19,7 @@ Master of Biomedical Engineering | Sep 2023 – Jun 2026
 **Tianjin University, China (Double First-Class Initiative, formerly Project 985)**
 
 Bachelor of Biomedical Engineering | Sep 2019 – Jun 2023
-- GPA: 3.43/4 (85.75/100)  
+- GPA: 3.43/4.0 (85.75/100)  
 - Key Courses: Fundamentals of Intelligent Medical Diagnostics (100), Principles of Automatic Control (96), Microcontroller Development and Applications (88), Intelligent Medical Sensing Technologies (87)
 
 ---
