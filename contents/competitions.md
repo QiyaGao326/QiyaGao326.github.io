@@ -1,4 +1,4 @@
-**1. The 9th National Biomedical Engineering Innovation Design Competition for University Students**
+**1. The 9th National Biomedical Engineering Innovation Design Competition**
 
 (The second participant, Third Prize (National Level) | Jul 2024)
 #### Key Works:  
