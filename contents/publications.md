@@ -1,4 +1,4 @@
-- **Q.Y. Gao**, S. Li, et al. Dual-signal electrochemical immunoassay based on PAMAM@MXene-modified electrode for simultaneous detection of S100B and NSE, *Biosensors and Bioelectronics*. **(JCR Q1, IF:10.5, Required Reviews Completed after Major Revision)**
+- **Q.Y. Gao**, S. Li, et al. Dual-signal electrochemical immunoassay based on PAMAM@MXene-modified electrode for simultaneous detection of S100B and NSE, *Biosensors and Bioelectronics*. **(JCR Q1, IF:10.5)** [https://doi.org/10.1016/j.bios.2025.118047](https://doi.org/10.1016/j.bios.2025.118047)
 
 - **Q.Y. Gao**, S. Li, Bin Yao, et al. Multimodal Assessment Platform Integrating Visual, Physiological, and Biochemical Profiling for Decoding Psoriasis Phenotyping, *MedComm*. **(JCR Q1, IF:10.7, With Editor)**
 
