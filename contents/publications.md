@@ -10,9 +10,9 @@
 
 - **Q.Y. Gao**, D. Ming, et al. Applications of Transistor-Based Biochemical Sensors, *Biosensors-Basel*, 13(2023). **(JCR Q1, IF:5.6)** [https://doi.org/10.3390/bios13040469](https://doi.org/10.3390/bios13040469)
 
-- **Q.Y. Gao**, S. Li, et al. Intelligent Biomaterials in Diagnostic Systems, in: Z. Liu (Ed.) Intelligent Biomaterials: Fundamentals, Principles and Applications, *Springer Nature*, 2025, pp. 337-406. **(Book Chapter)** [https://wgmktpgxscrjl-s.p.lib.tju.edu.cn/10.1007/978-981-96-8646-9_9](https://wgmktpgxscrjl-s.p.lib.tju.edu.cn/10.1007/978-981-96-8646-9_9)
+- **Q.Y. Gao**, S. Li, et al. Intelligent Biomaterials in Diagnostic Systems, in: Z. Liu (Ed.) Intelligent Biomaterials: Fundamentals, Principles and Applications, *Springer Nature*, 2025, pp. 337-406. **(Book Chapter)** [https://doi.org/10.1007/978-981-96-8646-9_9](https://doi.org/10.1007/978-981-96-8646-9_9)
 
-- J. Fu, F.Y. Xiong, **Q.Y. Gao**, S. Li. Bio-sensing Materials, in: Z. Liu (Ed.) Intelligent Biomaterials: Fundamentals, Principles and Applications, *Springer Nature*, 2025, pp. 277-335. **(Book Chapter)** [https://wgmktpgxscrjl-s.p.lib.tju.edu.cn/10.1007/978-981-96-8646-9_8](https://wgmktpgxscrjl-s.p.lib.tju.edu.cn/10.1007/978-981-96-8646-9_8)
+- J. Fu, F.Y. Xiong, **Q.Y. Gao**, S. Li. Bio-sensing Materials, in: Z. Liu (Ed.) Intelligent Biomaterials: Fundamentals, Principles and Applications, *Springer Nature*, 2025, pp. 277-335. **(Book Chapter)** [https://doi.org/10.1007/978-981-96-8646-9_8](https://doi.org/10.1007/978-981-96-8646-9_8)
 
 - Y.H. Ding, J. Fu, F.Y. Xiong, B.Q. Pan, **Q.Y. Gao**, J.W. Wang, et al. A highly elastic, moisturizing, and adhesion conductive hydrogel designed for cuffless blood pressure measurement, *Talanta*, 282(2025). **(JCR Q1, IF:6.1)**[https://doi.org/10.1016/j.talanta.2024.127004](https://doi.org/10.1016/j.talanta.2024.127004)
 
