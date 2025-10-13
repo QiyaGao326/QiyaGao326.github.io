@@ -1,4 +1,4 @@
-- National Scholarship for Graduate Students in China (2025)
+- **National Scholarship for Graduate Students in China** (2025)
 
 - First-Class Academic Scholarship, Tianjin University (2023-2025)
 
